@@ -15,10 +15,10 @@ Build and evaluate a neural network model to predict diabetes using the PIMA Ind
 - **Recall (Class 1):** 0.67  
 
 ### Confusion Matrix
-![Confusion Matrix](Outputs/Conusion_Matrix.png)
+![Confusion Matrix](Outputs/Confusion_Matrix.png)
 
 ### Training Accuracy Curve
-![Accuracy Curve](results/accuracy_curve.png)
+![Accuracy Curve](Outputs/Training_Graph.png)
 
 ## ▶️ How to Run
 1. Open the notebook in Google Colab.
